@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi friends!
+Bosslady here
+i love writing codes
+that makes me happy always.
